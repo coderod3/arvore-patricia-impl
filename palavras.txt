@@ -1,0 +1,6 @@
+computador
+celular
+livro
+mesa
+cadeira
+janela
