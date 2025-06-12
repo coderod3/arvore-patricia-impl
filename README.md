@@ -26,13 +26,13 @@ Ao executar o programa, um menu interativo será exibido no console:
 
 *Menu:*
 
-*1 - Inserir*
-*2 - Remover*
-*3 - Buscar*
-*4 - Carregar arquivo de palavras*
-*5 - Imprimir*
-*6 - Exibir dados da árvore*
-*7 - Sair*
+_1 - Inserir
+2 - Remover
+3 - Buscar
+4 - Carregar arquivo de palavras
+5 - Imprimir
+6 - Exibir dados da árvore
+7 - Sair_
 
 *Escolha:*
 
