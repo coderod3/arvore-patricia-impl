@@ -19,5 +19,6 @@ void deletar_palavra(Node *raiz, const char *chave);
 int buscar_palavra(Node *raiz, const char *chave);
 void imprimir_arvore(Node *raiz, char *prefixo);
 void carregar_palavras_de_arquivo(Node *raiz, const char *nome_arquivo);
+void exibir_estatisticas(Node *raiz);
 
 #endif
